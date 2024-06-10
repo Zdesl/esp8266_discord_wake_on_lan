@@ -1,6 +1,6 @@
 # ESP8266 Discord Wake on Lan
 This program will wake a device if a new message appears in a discord channel, after deleting said new message. <br>
-You must create a dedicated discord channel for this. Your discord bot will need the ```Manage Messages``` and ```Read Messages/View Channels``` permisions set under Default Install Settings.
+You must create a dedicated discord channel for this. Your discord bot will need the ```Manage Messages``` and ```Read Messages/View Channels``` permissions set under Default Install Settings.
 
 ### Building
 Rename _secrets.h.rename_me_ to _secrets.h_ to and edit every variable which starts with ```SECRET_```. <br>
